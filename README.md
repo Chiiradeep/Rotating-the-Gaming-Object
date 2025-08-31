@@ -57,3 +57,4 @@ public class exp1 : MonoBehaviour
 ## Output:
 ![alt text](<Screenshot 2025-08-30 231638.png>)
 ## Result:
+A 3D application for rotating the gaming objects in unity is developed successfully.
